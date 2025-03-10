@@ -1,3 +1,17 @@
+## To start a project
+
+> npm install
+> npm run dev
+
+## To access a project
+
+Open a brower and type below:
+
+> http://localhost:5173/
+
+# DeskTop View 
+![](https://github.com/Nikitadhonnar16/Vibecopilot-test/blob/master/images/front_page.png)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
